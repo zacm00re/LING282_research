@@ -1,0 +1,61 @@
+# Central config: every script reads paths and settings from here.
+# Override any value on the command line with --set key=value (see src/carti_asr/config.py).
+
+seed: 13
+
+paths:
+  songs_csv: data/metadata/songs.csv      # committed: song list + URLs + style tag
+  labels_dir: data/labels                  # committed: Audacity label tracks (timestamps + lyric line)
+  raw_dir: data/raw                        # ignored: downloaded audio
+  stems_dir: data/stems                    # ignored: Demucs vocal stems
+  clips_dir: data/clips                    # ignored: segmented 16 kHz mono clips
+  shifted_dir: data/shifted                # ignored: pitch-shifted control clips
+  manifests_dir: data/manifests            # ignored: CSV manifests built from the above
+  results_dir: results
+  checkpoints_dir: checkpoints
+
+styles: [normal, baby, deep]
+
+audio:
+  sample_rate: 16000
+  max_clip_seconds: 30          # Whisper's input window
+  min_clip_seconds: 1.0
+
+separation:
+  model: htdemucs_ft            # Demucs v4 fine-tuned hybrid transformer
+  two_stems: vocals
+
+split:
+  # Split by SONG, not by clip, so the same song never appears in train and test.
+  train: 0.6
+  dev: 0.2
+  test: 0.2
+
+pitch_shift:
+  # Normal-voice clips are shifted to the median F0 of each affected style.
+  # Semitone values are computed by scripts/05_pitch_shift.sh (measure step)
+  # and written to results/pitch/f0_summary.csv; set them here once measured.
+  preserve_formants: true
+  targets:
+    baby: null                  # e.g. +5.0 semitones
+    deep: null                  # e.g. -4.0 semitones
+
+model:
+  name: openai/whisper-small
+  language: en
+  task: transcribe
+
+finetune:
+  regimes: [encoder_only, decoder_only]   # also supported: full, none
+  learning_rate: 1.0e-5
+  warmup_steps: 50
+  max_steps: 1000
+  per_device_batch_size: 8
+  gradient_accumulation_steps: 2
+  eval_steps: 100
+  fp16: true
+  seeds: [13, 42, 7]
+
+eval:
+  num_beams: 1                  # greedy decoding for zero-shot comparability
+  bootstrap_samples: 1000
