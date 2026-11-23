@@ -1,0 +1,50 @@
+song_id,title,album,year,style,audio_url,lyrics_url,lyrics_source,notes
+001,Cartier,,2018,MOJO JOJO,https://www.youtube.com/watch?v=aHPHSWGRQ5s&list=RDaHPHSWGRQ5s,https://genius.com/Playboi-carti-cartier-lyrics,genius,w/ lil uzi vert
+002,Pain 1993,Dark Lane Demo Tapes,2020,baby,https://www.youtube.com/watch?v=RagZJGML0d0&list=PLQgQWTFg2BQPFKyhgr,https://genius.com/Drake-pain-1993-lyrics,genius,w/ drake
+003,Throw It Up,,2018,baby,https://www.youtube.com/watch?v=jUIELvQH14c,https://genius.com/Lil-uzi-vert-and-playboi-carti-2038-lyrics,genius,w/ lil uzi vert
+004,@ MEH,,2020,baby,https://www.youtube.com/watch?v=RLzn41-F0Ek,https://genius.com/Playboi-carti-meh-at-meh-lyrics,genius,
+005,Long Time (Intro),Die Lit,2018,baby,https://www.youtube.com/watch?v=tkPoOvVnbRk,,genius,
+006,R.I.P.,Die Lit,2018,normal,https://www.youtube.com/watch?v=qoynSseDjak&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=2,,genius,
+007,Lean 4 Real,Die Lit,2018,baby,https://www.youtube.com/watch?v=WOkP4zK5KDM&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=3,,genius,
+008,Old Money,Die Lit,2018,normal,https://www.youtube.com/watch?v=kwrkW-mB0DA&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=4,,genius,w/ skepta
+009,Love Hurts,Die Lit,2018,normal,https://www.youtube.com/watch?v=0UYNFJr9xgo&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=5,,genius,w/ travis scott
+010,Poke it Out,Die Lit,2018,normal,https://www.youtube.com/watch?v=cj2GCx1zeeo&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=8,https://genius.com/Playboi-carti-and-nicki-minaj-poke-it-out-lyrics,genius,w/ nicki minaj
+011,Fell In Luv,Die Lit,2018,normal,https://www.youtube.com/watch?v=HRbgGQ7rHi0&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=10,https://genius.com/Playboi-carti-fell-in-luv-lyrics,genius,
+012,Foreign,Die Lit,2018,normal,https://www.youtube.com/watch?v=cDSUwhqmUGw&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=11,https://genius.com/Playboi-carti-foreign-lyrics,genius,
+013,Pull Up,Die Lit,2018,normal,https://www.youtube.com/watch?v=Ejrp9f5bJS4&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=12,https://genius.com/Playboi-carti-pull-up-lyrics,genius,
+014,Flatbed Freestyle,Die Lit,2018,baby,https://www.youtube.com/watch?v=sV_Tlfvt6ig&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=14,https://genius.com/Playboi-carti-flatbed-freestyle-lyrics,genius,
+015,No Time,Die Lit,2018,baby,https://www.youtube.com/watch?v=PWiq1lBq2H0&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=16,https://genius.com/Playboi-carti-no-time-lyrics,genius,
+016,R.I.P. Fredo (Notice Me),Die Lit,2018,baby,https://www.youtube.com/watch?v=t9KTSbKuxi4&list=PLAUxsgLNM2Bt8pdCb2zGbrcLAdLcetKvO&index=19,https://genius.com/Playboi-carti-rip-fredo-notice-me-lyrics,genius,
+017,Beno!,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=rYkkE6gkAWA&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=4,https://genius.com/Playboi-carti-beno-lyrics,genius,
+018,Slay3r,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=a0DJDF0uSek&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=7,https://genius.com/Playboi-carti-slay3r-lyrics,genius,
+019,NoSl33p,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=QicMBfKdPxU&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=8,https://genius.com/Playboi-carti-nosl33p-lyrics,genius,
+020,New Tank,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=nQC6MyBHceE&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=9,https://genius.com/Playboi-carti-new-tank-lyrics,genius,
+021,Teen X,Whole Lotta Red,2020,baby,https://www.youtube.com/watch?v=6nBdw2RtstI&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=10,https://genius.com/Playboi-carti-teen-x-lyrics,genius,w/ future
+022,New N3on,Whole Lotta Red,2020,baby,https://www.youtube.com/watch?v=mUip00JK_rU&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=13,https://genius.com/Playboi-carti-new-n3on-lyrics,genius,
+023,Punk Monk,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=QrYtTe9aTRc&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=15,https://genius.com/Playboi-carti-punk-monk-lyrics,genius,
+024,On That Time,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=2TjbF0FmEMI&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=16,https://genius.com/Playboi-carti-on-that-time-lyrics,genius,
+025,Sky,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=GYE9H4SMq5E&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=19,https://genius.com/Playboi-carti-sky-lyrics,genius,
+026,Over,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=U93kSTdLfdY&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=20,https://genius.com/Playboi-carti-over-lyrics,genius,
+027,Die4Guy,Whole Lotta Red,2020,normal,https://www.youtube.com/watch?v=wmrOfzAu7LI&list=PL7RVBKKO9UqyEr8kqLe9152SIktQjDl64&index=22,https://genius.com/Playboi-carti-die4guy-lyrics,genius,
+028,EARFQUAKE,IGOR,2019,baby,https://www.youtube.com/watch?v=F8l8Oe0ezdI&list=RDF8l8Oe0ezdI&start_radio=1,https://genius.com/Tyler-the-creator-earfquake-lyrics,genius,carti only
+029,R.I.P. Yams,,2019,baby,https://www.youtube.com/watch?v=sPxNbhWFpEE&list=RDsPxNbhWFpEE&start_radio=1,https://genius.com/Playboi-carti-vivienne-westwood-lyrics,genius,
+030,Going Outta Style,,2019,baby,https://www.youtube.com/watch?v=mN7ThjsUiWA&list=RDmN7ThjsUiWA&start_radio=1,https://genius.com/Playboi-carti-goin-outta-style-lyrics,genius,carti only
+031,Almeda,When I Get Home,2019,baby,https://www.youtube.com/watch?v=NOcgYRr2oCI&list=RDNOcgYRr2oCI&start_radio=1,https://genius.com/Solange-almeda-lyrics,genius,
+032,Cancun,,2019,baby,https://www.youtube.com/watch?v=0ujy-FTYhZg&list=RD0ujy-FTYhZg&start_radio=1,https://genius.com/Playboi-carti-cancun-lyrics,genius,
+033,Friends,,2019,baby,https://www.youtube.com/watch?v=c8gFUZvBOuc&list=RDc8gFUZvBOuc&start_radio=1,https://genius.com/Playboi-carti-friends-lyrics,genius,
+034,Molly,,2019,baby,https://www.youtube.com/watch?v=qQAu-IAn2rA&t=13s,https://genius.com/Playboi-carti-molly-lyrics,genius,
+035,No Lie,,2019,baby,https://www.youtube.com/watch?v=4B5sK6GyALE&list=RDc8gFUZvBOuc&index=8,https://genius.com/Playboi-carti-no-lie-lyrics,genius,
+036,u kan do it too,,2019,baby,https://www.youtube.com/watch?v=wNXfRqW5iwM&list=RDwNXfRqW5iwM&start_radio=1,https://genius.com/Playboi-carti-u-kan-do-it-too-lyrics,genius,
+037,KETAMINE,MUSIC,2025,deep,https://www.youtube.com/watch?v=aqHA5WLRtMA&list=RDaqHA5WLRtMA&start_radio=1,https://genius.com/Playboi-carti-ketamine-k-pop-original-lyrics,genius,
+038,OVERLY,MUSIC,2025,deep,https://www.youtube.com/watch?v=xBMJctp-7kg&list=PLcqGS3QDuGydlZyr9iWsah6_QXgpCrQEx&index=12,https://genius.com/Playboi-carti-overly-lyrics,genius,
+039,ALL RED,MUSIC,2024,deep,https://www.youtube.com/watch?v=b5sXonDoX_I&list=PLcqGS3QDuGydlZyr9iWsah6_QXgpCrQEx,https://genius.com/Playboi-carti-all-red-lyrics,genius,
+040,HOMICIDE55555,,2024,deep,https://www.youtube.com/watch?v=NOcgYRr2oCI&list=RDNOcgYRr2oCI&start_radio=1,https://genius.com/Playboi-carti-homicide55555-lyrics,genius,
+041,EVIL J0RDAN,MUSIC,2025,deep,https://www.youtube.com/watch?v=VcRc2DHHhoM&list=RDVcRc2DHHhoM&start_radio=1,https://genius.com/Playboi-carti-evil-j0rdan-lyrics,genius,
+042,MOJO JOJO,MUSIC,2025,deep,https://www.youtube.com/watch?v=w5U7hemoc28&list=RDw5U7hemoc28&start_radio=1,https://genius.com/Playboi-carti-mojo-jojo-lyrics,genius,
+043,Tryna Get Down,,2019,baby,https://www.youtube.com/watch?v=N-okdYg21H8&list=RDN-okdYg21H8&start_radio=1,https://genius.com/Playboi-carti-tryna-get-down-u-kan-get-it-lyrics,genius,
+044,SOME MORE,,2025,deep,https://www.youtube.com/watch?v=u5ms1nds9eI&list=RDu5ms1nds9eI&start_radio=1,https://genius.com/Playboi-carti-some-more-lyrics,genius,
+045,DIFFERENT DAY,MUSIC,2025,baby,https://www.youtube.com/watch?v=vo98StHYs90&list=RDvo98StHYs90&start_radio=1,https://genius.com/Playboi-carti-different-day-lyrics,genius,
+046,OPM BABI,MUSIC,2025,baby,https://www.youtube.com/watch?v=UNAWyLCfhPo&list=RDUNAWyLCfhPo&start_radio=1,https://genius.com/Playboi-carti-opm-babi-lyrics,genius,
+047,Push Up,,2026,deep,https://www.youtube.com/watch?v=6FIcxr9RHe0&list=RD6FIcxr9RHe0&start_radio=1,https://genius.com/Playboi-carti-push-up-lyrics,genius,
+048,Skeleton,,2018,normal,https://www.youtube.com/watch?v=Qzx-8zjsRS8&list=RD3VVZjM5XI4U&index=10,https://genius.com/Playboi-carti-skeleton-lyrics,genius,
+049,Money & Drugs,,2020,baby,https://www.youtube.com/watch?v=TxJ-BjnruOY&list=RDH8N0FxDzdHY&index=5,https://genius.com/Playboi-carti-mad-money-and-drugs-lyrics,genius,
